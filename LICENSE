@@ -1,0 +1,38 @@
+Business Source License 1.1
+
+Parameters
+
+Licensor:
+Victor Rodriguez
+
+Licensed Work:
+Kitt
+
+Additional Use Grant:
+Personal, educational, and internal organizational use is allowed.
+Commercial hosting, resale, sublicensing, or offering Kitt as a competing commercial product or service is prohibited without explicit written permission from the Licensor.
+
+Change Date:
+2030-01-01
+
+Change License:
+Apache License, Version 2.0
+
+Terms
+
+The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work, subject to the limitations described in this License.
+
+You may not:
+- Sell the Licensed Work
+- Offer the Licensed Work as a hosted or managed service
+- Use the Licensed Work to compete commercially with the Licensor
+- Remove copyright or license notices
+
+All copies of the Licensed Work must include this License file.
+
+The Licensed Work is provided “as is”, without warranty of any kind.
+
+This License converts automatically to the Change License on the Change Date listed above.
+
+For full license text and terms of the Business Source License 1.1, see:
+https://mariadb.com/bsl11/
